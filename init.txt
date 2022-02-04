@@ -1,4 +1,7 @@
 Ejercicio 1: Configurar Git
 Ejercicio 2: Iniciar Git
 Ejercicio 3: Repositorio
-Ejercicio 4: Salvar contenido
+Ejercicio 4: Salvar contenido inicial
+Ejercicio 5: Clonar
+Ejercicio 6: Cambiar
+Ejercicio 7: Salvar modificaciones
